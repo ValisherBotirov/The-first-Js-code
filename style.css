@@ -1,0 +1,16 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  background: linear-gradient(to bottom, rgb(70, 209, 214), rgb(175, 20, 202));
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
